@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" group-title="Undefined",AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/207935e9-f81c-4e73-9166-0e75e41e7ac3-small3x1_stirr_1219_epg_americanclassics_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Undefined",American Classics
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="Undefined",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Animal Planet
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130904?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="Undefined",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET Her
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/282742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET Jams
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283162?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET SOUL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283161?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOUNCE TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/282641?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BRAVO
+http://xt.bossna-caffe.com:80/lockddown/t7KfkeXZuY/15628.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BUZZR
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGx6ypaIbiNIjzkWkzLij5k/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN News FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130940?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b69e56d9-8aac-4cff-94e2-4d848cd44ead-small3x1_stirr_0120_epg_CineLife_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Undefined",CineLife
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CineMax HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137308?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax MoreMax
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax ActionMax
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130918?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax ThrillerMax
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130917?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Junior
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/282877?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney Channel HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137442?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Disney XD (B)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/282879?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",E! Entertainment SD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137440?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130891?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FX
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137207?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",FOX New York HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/210551?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://assets.tvplayer.com/tvos/images/channels/585.png" group-title="Undefined",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Fox HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130937?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports 1 HD (FS1)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137437?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Game Show Network HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137200?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283363?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137369?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Comedy (B)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283359?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Signature HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137366?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130912?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Channel HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137436?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Hallmark Drama HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137301?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",History Channel HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137433?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Investigation Discovery FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137432?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/39NuAwl.png" group-title="Undefined",Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Lifetime Movie Network
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/282748?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130888?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NFL Network HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137256?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nasa TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/266427?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",National Geographic
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130900?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nicktoons
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/282872?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Nickelodeon HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130920?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Undefined",Reelz
+https://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHO×BET
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/283371?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137302?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Showtime Extreme HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137300?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Edge HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137290?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Encore HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Starz Kids & Family HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137287?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",THE CW HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193244?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/130906?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA Network FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/137247?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VH1 (East)
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD4oOdIgmx_fmX9tQ8FF6tc/ts?checkedby:iptvcat.com
